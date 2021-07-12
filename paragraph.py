@@ -6,7 +6,7 @@
 #   get_sentences() -> returns the list of sentences
 #   get_word_count() -> returns the word count
 #   get_sentence_count() -> returns the sentence count
-#   get_length_distribution()
+#   get_distribution_data() -> returns dict which has a list of value dicts, min_len, max_len
 import re
 
 
